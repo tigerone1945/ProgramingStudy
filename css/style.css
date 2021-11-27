@@ -4,10 +4,17 @@
 html {
     font-family: sans-serif;
 }
+html * {
+    box-sizing: border-box;
+}
 body {
     background-color: #eeece9;
 }
 h2 {
     color: #3f5170;
     font-size: 22px;
+<<<<<<< HEAD:css/style.css
+=======
+    border-bottom: 3px dotted #3f5170;
+>>>>>>> bffa305de01497700d5369a6a602a243b852971f:style.css
 }
